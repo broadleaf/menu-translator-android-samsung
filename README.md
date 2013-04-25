@@ -1,0 +1,2 @@
+menu-translator-android-samsung
+===============================
